@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Edudsnut
+https://blogger.googleusercontent.com/img/a/AVvXsEiSMJhgDW1yx3_VdtXTls8luBw5DAI0ITfA5vtqVohM66XCoU7kuBVrVwBKs75S3wrWW4EDu_32NtemmNvQj2c2Eu959iRx2GSKj3kvOOokd6rD6JnufF6Rt36xJixyrt9zoCXgbuEj1PA9xtnhh6OgWRt5CUdaPzEibpln2R1jqREibQ7oCHDHQyuyPk1D
+👋 Hi, I’m @Edudsnut
   
-- 🌱 I’m currently learning tentang pengembangan web dan pengkodean. 
+- 🌱 Saat ini saya sedang mempelajari tentang pengembangan web dan pengkodean. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
